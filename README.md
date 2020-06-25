@@ -5,10 +5,10 @@
 </p>
 
 ### Different machine learning algorithms
-| Algorithm | Type | Field of application |
-| :-------: | :--: | :------------------: |
-| [Linear regression](https://github.com/jinnatul/ml-Pro/blob/master/Supervised-Learning/linearRegression.ipynb) | Supervised Learning | Linear regression |
-| Polynomial regression | Supervised Learning | Non-linear regression |
+| Algorithm | Type | Field of application | Resoucres |
+| :-------: | :--: | :------------------: | :-------: |
+| [Linear regression](https://github.com/jinnatul/ml-Pro/blob/master/Supervised-Learning/linearRegression.ipynb) | Supervised Learning | Linear regression | [Link](https://datasinsightsbd.gitbook.io/dsbook/supervised-ml/regression) |
+| [Polynomial regression](https://github.com/jinnatul/ml-Pro/blob/master/Supervised-Learning/polynomialRegression.ipynb) | Supervised Learning | Non-linear regression | [Link](https://datasinsightsbd.gitbook.io/dsbook/supervised-ml/polynomial) |
 | Logistic regression | Supervised Learning | Classification |
 | Nave Beige | Supervised Learning | Classification |
 | Classification and regression tree | Supervised Learning | Classification and regression |
