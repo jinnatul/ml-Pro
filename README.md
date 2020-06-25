@@ -7,7 +7,7 @@
 ### Different machine learning algorithms
 | Algorithm | Type | Field of application |
 | :-------: | :--: | :------------------: |
-| Linear regression | Supervised Learning | Linear regression |
+| [Linear regression](https://github.com/jinnatul/ml-Pro/blob/master/Supervised-Learning/linearRegression.ipynb) | Supervised Learning | Linear regression |
 | Polynomial regression | Supervised Learning | Non-linear regression |
 | Logistic regression | Supervised Learning | Classification |
 | Nave Beige | Supervised Learning | Classification |
