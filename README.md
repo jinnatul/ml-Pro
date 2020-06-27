@@ -7,10 +7,10 @@
 ### Different machine learning algorithms
 | Algorithm | Type | Field of application | Resoucres |
 | :-------: | :--: | :------------------: | :-------: |
-| [Linear regression](https://github.com/jinnatul/ml-Pro/blob/master/Supervised-Learning/linearRegression.ipynb) | Supervised Learning | Linear regression | [Link](https://datasinsightsbd.gitbook.io/dsbook/supervised-ml/regression) |
-| [Polynomial regression](https://github.com/jinnatul/ml-Pro/blob/master/Supervised-Learning/polynomialRegression.ipynb) | Supervised Learning | Non-linear regression | [Link](https://datasinsightsbd.gitbook.io/dsbook/supervised-ml/polynomial) |
-| Logistic regression | Supervised Learning | Classification |
-| Nave Beige | Supervised Learning | Classification |
+| [Linear regression](https://github.com/jinnatul/ml-Pro/blob/master/Supervised-Learning/linearRegression.ipynb) | Supervised Learning | Linear regression | [Link-1](https://datasinsightsbd.gitbook.io/dsbook/supervised-ml/regression) |
+| [Polynomial regression](https://github.com/jinnatul/ml-Pro/blob/master/Supervised-Learning/polynomialRegression.ipynb) | Supervised Learning | Non-linear regression | [Link-1](https://datasinsightsbd.gitbook.io/dsbook/supervised-ml/polynomial) |
+| Logistic regression | Supervised Learning | Classification | Link-1 |
+| [Nave Beige](https://github.com/jinnatul/ml-Pro/blob/master/Supervised-Learning/naveBeige.ipynb) | Supervised Learning | Classification | [Link-1](https://datasinsightsbd.gitbook.io/dsbook/supervised-ml/naive-bayes) |
 | Classification and regression tree | Supervised Learning | Classification and regression |
 | Random forest | Supervised Learning | Classification and regression |
 | Who is the nearest neighbor | Supervised Learning | Classification and regression |
