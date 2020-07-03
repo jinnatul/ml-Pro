@@ -5,12 +5,12 @@
 </p>
 
 ### Different machine learning algorithms
-| Algorithm | Type | Field of application | Resoucres |
+| Algorithm | Type | Field of application | Code |
 | :-------: | :--: | :------------------: | :-------: |
-| [Linear regression](https://github.com/jinnatul/ml-Pro/blob/master/Supervised-Learning/linearRegression.ipynb) | Supervised Learning | Linear regression | [Link-1](https://datasinsightsbd.gitbook.io/dsbook/supervised-ml/regression) |
-| [Polynomial regression](https://github.com/jinnatul/ml-Pro/blob/master/Supervised-Learning/polynomialRegression.ipynb) | Supervised Learning | Non-linear regression | [Link-1](https://datasinsightsbd.gitbook.io/dsbook/supervised-ml/polynomial) |
-| Logistic regression | Supervised Learning | Classification | Link-1 |
-| [Nave Beige](https://github.com/jinnatul/ml-Pro/blob/master/Supervised-Learning/naveBeige.ipynb) | Supervised Learning | Classification | [Link-1](https://datasinsightsbd.gitbook.io/dsbook/supervised-ml/naive-bayes) |
+| Linear regression | Supervised Learning | Linear regression | [here](https://github.com/jinnatul/ml-Pro/blob/master/Supervised-Learning/linearRegression.ipynb) |
+| Polynomial regression | Supervised Learning | Non-linear regression | [here](https://github.com/jinnatul/ml-Pro/blob/master/Supervised-Learning/polynomialRegression.ipynb) |
+| Logistic regression | Supervised Learning | Classification | [here](https://github.com/jinnatul/ml-Pro/blob/master/Supervised-Learning/logisticRegression.ipynb) |
+| Nave Beige | Supervised Learning | Classification | [here](https://github.com/jinnatul/ml-Pro/blob/master/Supervised-Learning/naveBeige.ipynb) |
 | Classification and regression tree | Supervised Learning | Classification and regression |
 | Random forest | Supervised Learning | Classification and regression |
 | Who is the nearest neighbor | Supervised Learning | Classification and regression |
