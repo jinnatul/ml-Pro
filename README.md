@@ -26,3 +26,9 @@
 | Principal component analysis | Unsupervised learning | Principal Component Analysis and Dimensionality Reduction |
 | Q Learning | Reinforcement learning | Reinforcement learning |
  
+
+### Resources
+  - data-Set
+    - [here](https://github.com/FazlyRabbiBD/Data-Science-Book)
+  - doc
+    - [here](https://datasinsightsbd.gitbook.io/dsbook/)
